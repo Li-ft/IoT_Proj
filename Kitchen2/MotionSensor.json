@@ -1,0 +1,10 @@
+{
+	"deviceID": "202",
+	"deviceName": "MotionSensor2",
+	"registerType": "device",
+	"deviceType": "Sensor",
+	"protocol": "MQTT",
+	"brokerInquiry": "http://localhost:8090/broker",
+	"CatelogAddress": "http://localhost:8090",
+	"available-resources": "HumanPresence"
+}

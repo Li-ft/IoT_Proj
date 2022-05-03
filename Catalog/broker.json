@@ -1,0 +1,8 @@
+{
+	"brokerID": "1",
+	"brokerName": "Local_Broker",
+	"deviceType": "Broker",
+	"protocol": "MQTT",
+	"broker": "localhost",
+	"port": "1883"
+}
